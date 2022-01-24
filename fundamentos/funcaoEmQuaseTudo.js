@@ -2,7 +2,7 @@
  * Se JavaScript fosse um país
  * A função seria o presidente.
  */
-
+ 
 console.log(typeof Object)
 
 class Produto {}
